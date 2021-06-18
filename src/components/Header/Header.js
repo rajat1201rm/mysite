@@ -15,7 +15,7 @@ const Header = () =>  (
 
 <DiCssdeck size="3rem" />
 <Span>
-  The_Dev_Looper( );
+  DevLooper( );
 </Span>
         </a>
       </Link>
