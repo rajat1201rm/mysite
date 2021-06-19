@@ -7,6 +7,7 @@ import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 import Typing from "../components/Hero/Typing";
+import ProfilePic from '../components/Projects/ProfilePic';
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
       <Technologies />
       <Timeline />
       <Acomplishments />
+   <ProfilePic />
     </Layout>
   );
 };
