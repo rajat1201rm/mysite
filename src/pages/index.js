@@ -21,7 +21,7 @@ const Home = () => {
       <Technologies />
       <Timeline />
       <Acomplishments />
-   <ProfilePic />
+  
     </Layout>
   );
 };
