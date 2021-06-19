@@ -12,12 +12,8 @@ const Hero = (props) => (
   
   <Section row nopadding>
  <SectionTitle>
- 
        RAJAT SRIVASTAVA
         </SectionTitle>
-       
-      
-      
         <SectionText>
         Student || Freelancer || Developer
         </SectionText>
