@@ -18,9 +18,9 @@ const Hero = (props) => (
         <SectionText>
         Student || Freelancer || Developer
         </SectionText>
-     
+      </LeftSection>
         <Button onClick={()=>window.location="mailto:rajat.srivastava2019@vitstudent.ac.in"}>Contact Me</Button>
-        </LeftSection>
+       
     </Section>
 );
 
