@@ -8,9 +8,7 @@ const ProfilePic = () => {
      
    <div>
      HI pic
-     <Image src={dp}
-alt='error'
-/>
+ 
    </div>
             
     )
