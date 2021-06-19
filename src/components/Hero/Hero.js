@@ -11,6 +11,7 @@ const Hero = (props) => (
   
   
   <Section row nopadding>
+  <LeftSection>
  <SectionTitle>
        RAJAT SRIVASTAVA
         </SectionTitle>
