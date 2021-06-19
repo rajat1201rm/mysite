@@ -14,6 +14,7 @@ const Hero = (props) => (
   <LeftSection>
  <SectionTitle>
   HI ! <br/ >
+  I am, <br />
   
        RAJAT SRIVASTAVA
         </SectionTitle>
