@@ -7,7 +7,7 @@ const ProfilePic = () => {
     return (
      
    <div>
-     HI
+     HI pic
      <Image src={dp}
 alt='error'
 />
