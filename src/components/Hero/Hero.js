@@ -13,7 +13,7 @@ const Hero = (props) => (
   <Section row nopadding>
   <LeftSection>
  <SectionTitle>
-  HI !
+  HI ! <br/ >
   
        RAJAT SRIVASTAVA
         </SectionTitle>
