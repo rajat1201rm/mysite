@@ -11,9 +11,9 @@ const Hero = (props) => (
   
   
   <Section row nopadding>
- <SectionTitle>Hi !</SectionTitle>
-  <SectionTitle>I am,</SectionTitle>
-      <SectionTitle>
+ <SectionTitle>Hi !
+   I am,
+    
        RAJAT SRIVASTAVA
         </SectionTitle>
        
