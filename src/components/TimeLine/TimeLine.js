@@ -1,8 +1,8 @@
 import React, { useState, useRef, useEffect } from 'react';
 
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
-import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
-import Button from '../../styles/GlobalComponents/Button';
+import { Section, SectionDivider, SectionText, SectionTitle,Button } from '../../styles/GlobalComponents';
+
 import { TimeLineData } from '../../constants/constants';
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
@@ -51,7 +51,7 @@ const Timeline = () => {
      I am 2nd Year Student at Vit Vellore ,India.<br />
      I am looking for Technical Internships. <br />
      I am an aspiring Free-lancer. <br />
-     I am the Student President at SME VIT, Student's Chapter, Vit Vellore. 
+     I am the Student President at SME VIT, Student's Chapter, Vit Vellore. <br />
      Check our blogs out at ....
     <Button onClick={()=>window.location="https://smevitblog.wordpress.com/"}>SME VIT</Button>
    
