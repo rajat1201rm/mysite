@@ -49,4 +49,4 @@ export const TimeLineData = [
   { year: 2021, text: 'President at SME VIT'},
   {year: 2021, text : 'Intern at METVY.AI in Aritifical Intelligence'},
 {year: 2021, text : 'Programming Intern at CoderHalt'},
-{year: 2021, text : 'Summer Intern at EdTech in Python '}]
+{year: 2021, text : 'Summer Intern at EdTech in Python '},{year: 2021, text : 'Summer Intern at EdTech in Python '},{year: 2021, text : 'Summer Intern at EdTech in Python '},{year: 2021, text : 'Summer Intern at EdTech in Python '},{year: 2021, text : 'Summer Intern at EdTech in Python ']
