@@ -2,6 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 
 import { CarouselButton, CarouselButtonDot, CarouselButtons, CarouselContainer, CarouselItem, CarouselItemImg, CarouselItemText, CarouselItemTitle, CarouselMobileScrollNode } from './TimeLineStyles';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
+import Button from '../../styles/GlobalComponents/Button';
 import { TimeLineData } from '../../constants/constants';
 
 const TOTAL_CAROUSEL_COUNT = TimeLineData.length;
@@ -51,7 +52,9 @@ const Timeline = () => {
      I am looking for Technical Internships. <br />
      I am an aspiring Free-lancer. <br />
      I am the Student President at SME VIT, Student's Chapter, Vit Vellore. 
-     Check our blogs out at ....<a href="https://smevitblog.wordpress.com/">SME VIT</a>
+     Check our blogs out at ....
+    <Button onClick={()=>window.location="https://smevitblog.wordpress.com/"}>SME VIT</Button>
+   
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
