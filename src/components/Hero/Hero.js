@@ -19,7 +19,7 @@ const Hero = (props) => (
        RAJAT SRIVASTAVA
         </SectionTitle>
         <SectionText>
-        Student || Freelancer || Developer
+        Student || Freelancer || Developer || Ethical Hacker || Certified Robotics Engineer
         </SectionText>
         <Button onClick={()=>window.location="mailto:rajat.srivastava2019@vitstudent.ac.in"}>Contact Me</Button>
          </LeftSection>
